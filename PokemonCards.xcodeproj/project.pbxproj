@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E2030AA25D407C0007E037B /* PokeyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2030A925D407C0007E037B /* PokeyTableViewCell.swift */; };
 		4E65B8EF25D2B856009CAEB0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E65B8EE25D2B856009CAEB0 /* AppDelegate.swift */; };
 		4E65B8F125D2B856009CAEB0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E65B8F025D2B856009CAEB0 /* SceneDelegate.swift */; };
 		4E65B8F325D2B856009CAEB0 /* PokemonsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E65B8F225D2B856009CAEB0 /* PokemonsViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E2030A925D407C0007E037B /* PokeyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeyTableViewCell.swift; sourceTree = "<group>"; };
 		4E65B8EB25D2B856009CAEB0 /* PokemonCards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonCards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E65B8EE25D2B856009CAEB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4E65B8F025D2B856009CAEB0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				4E65B8F225D2B856009CAEB0 /* PokemonsViewController.swift */,
+				4E2030A925D407C0007E037B /* PokeyTableViewCell.swift */,
 				4E65B90B25D2BB84009CAEB0 /* PokemonDetailViewController.swift */,
 			);
 			path = Controller;
@@ -195,6 +198,7 @@
 				4E65B91225D2BE2C009CAEB0 /* NetworkController.swift in Sources */,
 				4E65B90C25D2BB84009CAEB0 /* PokemonDetailViewController.swift in Sources */,
 				4E65B8EF25D2B856009CAEB0 /* AppDelegate.swift in Sources */,
+				4E2030AA25D407C0007E037B /* PokeyTableViewCell.swift in Sources */,
 				4E65B8F125D2B856009CAEB0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
